@@ -477,7 +477,7 @@
               "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffffff",
+              "color": "#232323",
               "text-align": "left"
             },
             "H3": {
@@ -568,7 +568,7 @@
               "background": "#000"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676",
+              "color": "#232323",
               "text-align": "left"
             },
             ".carousel-item": {
