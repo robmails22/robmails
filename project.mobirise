@@ -477,8 +477,11 @@
               "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323",
+              "color": "#ffffff",
               "text-align": "left"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_cid": "qJUwAWKA04",
